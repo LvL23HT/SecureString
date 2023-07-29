@@ -1,0 +1,2 @@
+# SecureString
+ Simplifica SecureString .NET
